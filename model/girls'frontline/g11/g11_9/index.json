@@ -15,5 +15,11 @@
 	"hit_areas": [{
 		"name": "body",
 		"id": "D_REF.BODY"
-	}]
+	}],
+	"layout":{
+	"center_x": 0,
+	"center_y": -0.16,
+	"width": 1.8,
+	"height": 2.5
+	}
 }
