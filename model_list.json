@@ -1,44 +1,27 @@
 {
     "models": [
-        "Potion-Maker/Pio",
-        "Potion-Maker/Tia",
-        "bilibili-live/22",
-        "bilibili-live/33",
+        ["girls'frontline/g11/g11_9",
+        "girls'frontline/g11/g11_1602",
+        "girls'frontline/g11/g11_4102"],
         [
-            "ShizukuTalk/shizuku-48",
-            "ShizukuTalk/shizuku-pajama"
+            "girls'frontline/hk416/hk416_805",
+            "girls'frontline/hk416/hk416_3401"
         ],
         [
-            "HyperdimensionNeptunia/neptune_classic",
-            "HyperdimensionNeptunia/nepnep",
-            "HyperdimensionNeptunia/neptune_santa",
-            "HyperdimensionNeptunia/nepmaid",
-            "HyperdimensionNeptunia/nepswim",
-            "HyperdimensionNeptunia/noir_classic",
-            "HyperdimensionNeptunia/noir",
-            "HyperdimensionNeptunia/noir_santa",
-            "HyperdimensionNeptunia/noireswim",
-            "HyperdimensionNeptunia/blanc_classic",
-            "HyperdimensionNeptunia/blanc_normal",
-            "HyperdimensionNeptunia/blanc_swimwear",
-            "HyperdimensionNeptunia/vert_classic",
-            "HyperdimensionNeptunia/vert_normal",
-            "HyperdimensionNeptunia/vert_swimwear",
-            "HyperdimensionNeptunia/nepgear",
-            "HyperdimensionNeptunia/nepgear_extra",
-            "HyperdimensionNeptunia/nepgearswim",
-            "HyperdimensionNeptunia/histoire",
-            "HyperdimensionNeptunia/histoirenohover"
+            "girls'frontline/ump9/ump9_2106",
+            "girls'frontline/ump9/ump9_3404"
         ],
-        "KantaiCollection/murakumo"
+        [
+            "girls'frontline/ump45/ump45_2107",
+            "girls'frontline/ump45/ump45_3403",
+            "girls'frontline/ump45/ump45_5405",
+            "girls'frontline/ump45/ump45mod"
+        ]
     ],
     "messages": [
-        "来自 Potion Maker 的 Pio 酱 ~",
-        "来自 Potion Maker 的 Tia 酱 ~",
-        "来自 Bilibili Live 的 22 哦 ~",
-        "来自 Bilibili Live 的 33 的说",
-        "Shizuku Talk ！这里是 Shizuku ~",
-        "Nep! Nep! 超次元游戏：海王星 系列",
-        "艦隊これくしょん / 叢雲(むらくも)"
+        "唔……自我介绍？真麻烦啊……我是G11,那时少见的无壳弹步枪。战后很多国家都没搞出来的技术，最后由三方联手在我身上实现了。折腾了很多年才完成，不过正赶上些事件，又不用我出场了。人类啊，真喜欢疲于奔命……",
+        "HK416，展出的时候有着HKM4这个名字，然后被剥夺了。……为什么偏偏瞄准了我呢？（冷笑）原因可想而知呢。后来的我，靠着全新的名字和大量改进，在那个时代广受瞩目。指挥官，我会让你忘掉那些人的，只要我……只要我就够了。",
+        "UMP冲锋枪的新款型号，就是我，UMP9了！和UMP45、40一样，是为了取代MP5而研发的新式冲锋武器。和其他姐妹不同的是，装配的是9X19毫米手枪弹，无论性能和市场销量，都是很受好评的哦，指挥官，让我们好好相处吧！",
+        "随着前线战争减少，特种作战与日俱增，我，UMP45，全称为“.45口径通用冲锋枪”便随之诞生了。性能出色，连发后坐力小，易于分解，很适合特种部队和特警队使用，前提是真的想保住人质的时候，哼哼……"
     ]
 }
